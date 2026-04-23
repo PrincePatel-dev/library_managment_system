@@ -1,0 +1,122 @@
+# Laravel Framework
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.fleet
+
+# Environment Variables
+.env
+.env.backup
+.env.production
+.env.local
+.env.*.local
+
+# IDE & Editor Files
+/.idea
+/.vscode
+/.history
+*.swp
+*.swo
+*~
+*.sublime-workspace
+*.sublime-project
+.DS_Store
+Thumbs.db
+
+# Logs & Cache
+/storage/logs
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/views
+npm-debug.log
+yarn-error.log
+.phpunit.result.cache
+
+# PHP & Composer
+composer.lock
+auth.json
+
+# Node.js & npm
+package-lock.json
+yarn.lock
+.npm
+
+# Testing
+.coverage
+.phpunit.xml
+.phpunit.cache
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Vim
+.vim/
+*.vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+
+# Homestead
+Homestead.json
+Homestead.yaml
+
+# Local Development Files
+local/
+tmp/
+temp/
+*.tmp
+
+# Build & Distribution
+/dist
+/build
+*.bundle.js
+
+# Database Files
+*.sqlite
+*.db
+*.sqlite3
+
+# Configuration Files
+config/database.php~
+routes/web.php~
+
+# Project Reports & Documentation
+PROJECT_REPORT.md
+PROJECT_REPORT.html
+PROJECT_REPORT.*
+report/
+reports/
+docs/generated/
+*.pdf
+*.docx
+*.xlsx
+
+# Editor Swap Files
+*.swo
+*.swp
+*~
+
+
